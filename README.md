@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Alisson
+### Hi there 🐱‍🐉, my name is Alisson
 
 I’m currently learning HTML, CSS and JAVASCRIPT.
 
