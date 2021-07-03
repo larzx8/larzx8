@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Alisson
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I’m currently learning HTML, CSS and JAVASCRIPT.
 
