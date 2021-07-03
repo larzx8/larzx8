@@ -15,3 +15,5 @@ I’m looking for help with HTML, CSS, JAVASCRIPT. New languages will be include
 ![Profile views](https://gpvc.arturio.dev/larzx8)  
 
   
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=larzx8&show_icons=true)  
+
