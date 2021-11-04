@@ -1,12 +1,13 @@
-### Hi there 🐱‍🐉, my name is Alisson
+### Hello 😺👍 
+I'm Alisson! What's up? 
 
-I’m currently learning HTML, CSS and JAVASCRIPT.
+Currently learning HTML, CSS and JAVASCRIPT.
 
-I’m looking to collaborate on GH Community
+Looking to collaborate on GH Community
 
-I’m looking for help with HTML, CSS, JAVASCRIPT. New languages will be included in learning soon.
+I’m looking for help with HTML, CSS, JAVASCRIPT. Feel free to contact me! Would be nice to talk about projects and programming languages. Some of these languages will be included in learning soon.
 
-- 📫 How to reach me: How to reach me: Discord: Furby#8494/ amlsalisson@gmail.com 
+- 📫 Want to contact me? Discord: Furby#8494 | amlsalisson@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' target='_blank'>](https://www.linkedin.com/in/alisson-de-souza-907b15205//)  
